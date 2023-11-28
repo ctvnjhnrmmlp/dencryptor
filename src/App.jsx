@@ -3,7 +3,7 @@ import Encryptor from './features/Encryptor';
 
 export default function App() {
 	return (
-		<main className='container mx-auto flex flex-col justify-evenly gap-12'>
+		<main className='container mx-auto flex flex-col justify-evenly gap-14'>
 			<section className='p-12'>
 				<h1 className='text-8xl text-white text-center tracking-[-7px] font-bold italic'>
 					Dencryptor
