@@ -2,7 +2,7 @@
 
 _A simple yet powerful tool for secure encryption and decryption using substitution ciphers_
 
-> _CipherEase: A privacy-first utility built for anyone who values simplicity, security, and accessibility._
+> _A privacy-first utility built for anyone who values simplicity, security, and accessibility._
 
 ## Overview
 
