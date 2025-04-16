@@ -111,5 +111,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 
 - Inspired by the need for **accessible personal encryption tools**
-- Built with ❤️ by John Rommel Octaviano
+- Built by John Rommel Octaviano
 - Powered by React, Vite, Flowbite, and Tailwind CSS
